@@ -1,0 +1,25 @@
+{
+  "name": "Bot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "connect.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Mugeri/Bot.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Mugeri/Bot/issues"
+  },
+  "homepage": "https://github.com/Mugeri/Bot#readme",
+  "dependencies": {
+    "dotenv": "^5.0.0",
+    "steam-totp": "^2.0.1",
+    "steam-user": "^3.24.0"
+  }
+}
